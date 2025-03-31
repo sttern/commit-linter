@@ -41,10 +41,13 @@ chore: Maintenance tasks (dependencies, build process updates)
 Examples of Correct Commits
 
 ✅ feat(auth): add OAuth login support
+
 ✅ fix(ui): resolve button alignment issue
+
 ✅ docs(readme): update installation steps
 
 Examples of Incorrect Commits
 
 ❌ fixed bug in login (Missing type and scope)
+
 ❌ updated README (Doesn’t specify the change)
